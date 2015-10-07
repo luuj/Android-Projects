@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "label_easy">Easy</string>
+    <string name = "label_medium">Medium</string>
+    <string name = "label_hard">Hard</string>
+
+    <string-array name="array_difficulty">
+        <item>@string/label_easy</item>
+        <item>@string/label_medium</item>
+        <item>@string/label_hard</item>
+    </string-array>
+    <!--
+    <string-array name="array_difficulty">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>-->
+
+</resources>

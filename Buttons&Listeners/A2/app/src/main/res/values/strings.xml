@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">A2</string>
+    <string name="action_settings">Settings</string>
+
+    //String for TextView
+    <string name="ask_text">Do you prefer Android or iOS?</string>
+
+    //Strings for two buttons
+    <string name="btn_android">Android</string>
+    <string name="btn_ios">iOS</string>
+
+    //Strings for toasts
+    <string name="toast_android">You chose Android!</string>
+    <string name="toast_ios">You chose iOS</string>
+    <string name="error_text">Error</string>
+
+</resources>

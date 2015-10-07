@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Week 5 - Intents</string>
+    <string name="label_launch_activity">Launch Activity</string>
+    <string name="label_cheat_mode">Cheat Mode</string>
+    <string name="label_difficulty">Difficulty</string>
+    <string name="label_name">Name</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

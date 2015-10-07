@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A1</string>
+
+    //String value for Hello World
+    <string name="hello_world">Hello ITP 341!</string>
+
+    <string name="action_settings">Settings</string>
+
+    //String value for Greeting
+    <string name="greeting">Hi, my name is Jonathan and this is my first app</string>
+</resources>

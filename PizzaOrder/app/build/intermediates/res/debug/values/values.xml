@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/R/Dropbox/ITP%20341/_Projects/Week4PizzaOrder/app/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="label_array_specials">
+        <item>None</item>
+        <item>Chicken wings</item>
+        <item>Small salad</item>
+    </string-array>
+    <!-- From: file:/C:/Users/R/Dropbox/ITP%20341/_Projects/Week4PizzaOrder/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="text_size_medium">18sp</dimen>
+    <!-- From: file:/C:/Users/R/Dropbox/ITP%20341/_Projects/Week4PizzaOrder/app/src/main/res/values/nums.xml -->
+    <eat-comment/>
+    <integer name="int_default_num_pizzas">1</integer>
+    <!-- From: file:/C:/Users/R/Dropbox/ITP%20341/_Projects/Week4PizzaOrder/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Week4PizzaOrder</string>
+    <string name="label_hint_name">Enter your name</string>
+    <string name="label_large">large</string>
+    <string name="label_medium">medium</string>
+    <string name="label_name">Name</string>
+    <string name="label_num_pizzas">Number of Pizzas</string>
+    <string name="label_order_summary">Order Summary</string>
+    <string name="label_pepperoni">pepperoni</string>
+    <string name="label_pineappple">pineapple</string>
+    <string name="label_size">Size</string>
+    <string name="label_small">small</string>
+    <string name="label_specials">Free specials</string>
+    <string name="label_tofu">tofu</string>
+    <string name="label_toppings">Toppings</string>
+    <!-- From: file:/C:/Users/R/Dropbox/ITP%20341/_Projects/Week4PizzaOrder/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">What is Food?</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="americanString">American</string>
+    <string name="chineseString">Chinese</string>
+    <string name="indianString">Indian</string>
+    <string name="italianString">Italian</string>
+    <string name="middleeastString">Middle East</string>
+    <string name="portugueseString">Portuguese</string>
+</resources>

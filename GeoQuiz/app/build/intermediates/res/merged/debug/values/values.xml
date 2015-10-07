@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jluu/Downloads/Week6_GeoQuiz_Start/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <integer-array name="array_answers">
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+    <string-array name="array_questions">
+        <item>The Pacific Ocean is larger than the Atlantic Ocean.</item>
+        <item>The Suez Canal connects the Red Sea and the Indian Ocean.</item>
+        <item>The source of the Nile River is in Egypt.</item>
+        <item>The Amazon River is the longest river in the Americas.</item>
+        <item>Lake Baikal is the world\'s oldest and deepest freshwater lake.</item>
+    </string-array>
+    <string name="app_name">GeoQuiz</string>
+    <string name="label_cheat">Cheat!</string>
+    <string name="label_false">False</string>
+    <string name="label_next">Next</string>
+    <string name="label_prev">Prev</string>
+    <string name="label_show_answer">Show Answer</string>
+    <string name="label_true">True</string>
+    <string name="label_warning">Are you sure you want to do this?</string>
+    <string name="toast_correct">Correct!</string>
+    <string name="toast_correct_judgment">Cheating is wrong.</string>
+    <string name="toast_incorrect">Incorrect!</string>
+    <string name="toast_incorrect_judgment">You do not cheat very well. \nStick to guessing.</string>
+    <!-- From: file:/C:/Users/jluu/Downloads/Week6_GeoQuiz_Start/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+    -->
+  </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+  </style>
+</resources>

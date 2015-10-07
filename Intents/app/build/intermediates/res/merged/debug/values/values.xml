@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jluu/Downloads/Week5-Intents-Start_No_Code/app/src/main/res/values/array.xml -->
+    <eat-comment/>
+    <string-array name="array_difficulty">
+        <item>@string/label_easy</item>
+        <item>@string/label_medium</item>
+        <item>@string/label_hard</item>
+    </string-array>
+    <!-- From: file:/C:/Users/jluu/Downloads/Week5-Intents-Start_No_Code/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/jluu/Downloads/Week5-Intents-Start_No_Code/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Week 5 - Intents</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="label_cheat_mode">Cheat Mode</string>
+    <string name="label_difficulty">Difficulty</string>
+    <!-- From: file:/C:/Users/jluu/Downloads/Week5-Intents-Start_No_Code/app/src/main/res/values/array.xml -->
+    <eat-comment/>
+    <string name="label_easy">Easy</string>
+    <string name="label_hard">Hard</string>
+    <!-- From: file:/C:/Users/jluu/Downloads/Week5-Intents-Start_No_Code/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="label_launch_activity">Launch Activity</string>
+    <!-- From: file:/C:/Users/jluu/Downloads/Week5-Intents-Start_No_Code/app/src/main/res/values/array.xml -->
+    <eat-comment/>
+    <string name="label_medium">Medium</string>
+    <!-- From: file:/C:/Users/jluu/Downloads/Week5-Intents-Start_No_Code/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="label_name">Name</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <!-- From: file:/C:/Users/jluu/Downloads/Week5-Intents-Start_No_Code/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

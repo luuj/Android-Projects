@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="itp341.exercises.week5_intents.SecondActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
+<!-- From: file:/C:/Users/jluu/Downloads/Week5-Intents-Start_No_Code/app/src/main/res/menu/menu_second.xml -->

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Address Book</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nameOne">Bob</string>
+    <string name="nameTwo">Turk</string>
+    <string name="nameThree">Stan</string>
+    <string name="emailText">Email:</string>
+    <string name="phoneText">Phone:</string>
+    <string name="addressText">Address:</string>
+    <string name="notesText">Notes:</string>
+    <string name="promptText">Write a line or two about the person.</string>
+
+    <string name="title_activity_detail">Profile</string>
+
+    <string name="editString">Edit</string>
+    <string name="saveString">Save</string>
+</resources>

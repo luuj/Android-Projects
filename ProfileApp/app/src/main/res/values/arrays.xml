@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bob_profile">
+        <item>Bob Saget</item>
+        <item>picture_one</item>
+        <item>bob.saget@gmail.com</item>
+        <item>(908)333-5692</item>
+        <item>3223 McClintock Ave, Los Angeles, CA</item>
+        <item>Write a line or two about the person.</item>
+    </string-array>
+
+    <string-array name="turkleton_profile">
+        <item>Turk Turkleton</item>
+        <item>picture_two</item>
+        <item>turkleton@gmail.com</item>
+        <item>(408)123-6234</item>
+        <item>4029 Figueroa St, Los Angeles, CA</item>
+        <item>Write a line or two about the person.</item>
+    </string-array>
+
+    <string-array name="stan_profile">
+        <item>Stan Marsh</item>
+        <item>picture_three</item>
+        <item>stan.marsh@gmail.com</item>
+        <item>(123)456-7892</item>
+        <item>6423 Flower St, Los Angeles, CA</item>
+        <item>Write a line or two about the person.</item>
+    </string-array>
+
+</resources>
