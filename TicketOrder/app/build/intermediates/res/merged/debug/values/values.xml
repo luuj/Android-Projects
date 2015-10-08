@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jluu/Downloads/Week8_midterm_review_start/app/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="array_ticket_amounts">
+	    <item>1</item>
+	    <item>2</item>
+	    <item>3</item>
+	    <item>4</item>
+	</string-array>
+    <!-- From: file:/C:/Users/jluu/Downloads/Week8_midterm_review_start/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <plurals name="quantityOfTickets">
+        <item quantity="one">ticket</item>
+        <item quantity="other">tickets</item>
+    </plurals>
+    <string name="app_name">Week8_midterm_review</string>
+    <string name="cancelText">Cancel</string>
+    <string name="confirmText">Confirm</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="label_number_of_tickets">Number of Tickets</string>
+    <string name="pString">Proceed to Checkout</string>
+    <string name="pText">You are purchasing</string>
+    <string name="tString">Total: $9.99</string>
+    <string name="tText">Ticket(s)</string>
+    <string name="ticketString">Number of Tickets</string>
+    <string name="title_activity_confirm">ConfirmActivity</string>
+    <!-- From: file:/C:/Users/jluu/Downloads/Week8_midterm_review_start/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
