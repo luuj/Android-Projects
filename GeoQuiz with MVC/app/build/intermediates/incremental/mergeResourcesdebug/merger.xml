@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res"><file name="arrow_left" path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\drawable-hdpi\arrow_left.png" qualifiers="hdpi" type="drawable"/><file name="arrow_right" path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\drawable-hdpi\arrow_right.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="arrow_right" path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\drawable-mdpi\arrow_right.png" qualifiers="mdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="arrow_left" path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\drawable-xhdpi\arrow_left.png" qualifiers="xhdpi" type="drawable"/><file name="arrow_right" path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\drawable-xhdpi\arrow_right.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="activity_cheat" path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\layout\activity_cheat.xml" qualifiers="" type="layout"/><file name="activity_quiz" path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\layout\activity_quiz.xml" qualifiers="" type="layout"/><file name="activity_quiz" path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\layout-land\activity_quiz.xml" qualifiers="land" type="layout"/><file path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\values\strings.xml" qualifiers=""><string-array name="array_questions">
+        <item>The Pacific Ocean is larger than the Atlantic Ocean.</item>
+        <item>The Suez Canal connects the Red Sea and the Indian Ocean.</item>
+        <item>The source of the Nile River is in Egypt.</item>
+        <item>The Amazon River is the longest river in the Americas.</item>
+        <item>Lake Baikal is the world\'s oldest and deepest freshwater lake.</item>
+    </string-array><string name="question_africa">The source of the Nile River is in Egypt.</string><integer name="answer_asia">1</integer><string name="label_cheat">Cheat!</string><string name="toast_correct">Correct!</string><integer name="answer_africa">0</integer><string name="question_americas">The Amazon River is the longest river in the Americas.</string><string name="label_prev">Prev</string><string name="toast_incorrect">Incorrect!</string><string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean.</string><integer name="answer_mideast">0</integer><integer name="answer_oceans">1</integer><string name="label_show_answer">Show Answer</string><string name="label_false">False</string><string name="label_next">Next</string><string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string><string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string><string name="app_name">GeoQuiz</string><string name="label_true">True</string><string name="toast_incorrect_judgment">You do not cheat very well. \nStick to guessing.</string><integer-array name="array_answers">
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array><integer name="answer_americas">1</integer><string name="toast_correct_judgment">Cheating is wrong.</string><string name="label_warning">Are you sure you want to do this?</string></file><file path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+    -->
+  </style><style name="AppTheme" parent="AppBaseTheme">
+    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+  </style></file><file path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+    <!-- API 11 theme customizations can go here. -->
+  </style></file><file path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Material">
+    <!-- API 14 theme customizations can go here. -->
+  </style></file></source><source path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\build\generated\res\rs\debug"/><source path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\jluu\Downloads\Week7_GeoQuiz_MVC_Start\app\src\debug\res"/></dataSet><mergedItems/></merger>
