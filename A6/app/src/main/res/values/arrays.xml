@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="drink_type_array">
+        <item>None</item>
+        <item>Espresso</item>
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Macchiato</item>
+        <item>Brewed</item>
+        <item>Americano</item>
+        <item>Mocha</item>
+    </array>
+
+    <array name="brew_type_array">
+        <item>None</item>
+        <item>Brazilian</item>
+        <item>Colombian</item>
+        <item>Costa Rican</item>
+        <item>Ethiopian</item>
+        <item>Guatemalan</item>
+        <item>Haitian</item>
+        <item>Hawaiian Kona</item>
+        <item>Jamaican Blue Mountain</item>
+        <item>Java</item>
+        <item>Kenyan</item>
+        <item>Mexican</item>
+        <item>Sumatran</item>
+    </array>
+
+    <array name="sweet_array">
+        <item>None</item>
+        <item>Caramel</item>
+        <item>Vanilla</item>
+        <item>Hazelnut</item>
+        <item>Chai</item>
+        <item>Chocolate</item>
+        <item>Strawberry</item>
+        <item>Cinnamon Dolce</item>
+        <item>Coffee</item>
+        <item>Green Tea</item>
+    </array>
+
+    <array name="description_type_array">
+        <item></item>
+        <item>Dry, spicy, sweet, lingering</item>
+        <item>Rich, sweet, caramel</item>
+        <item>Rich, smooth, sweet, delicate, smoky</item>
+        <item>Rich, spicy, gamey, winey</item>
+        <item>Rich, chocolate, soft, mild, smoky</item>
+        <item>Full, winey, sweet, rich, mellow</item>
+        <item>Rich, winey</item>
+        <item>Well-balanced, pleasant, lingering</item>
+        <item>Exotic, mellow, smooth, musty, smoky</item>
+        <item>Intense, floral, winey, lemony</item>
+        <item>Thin, dry, sweet, hazelnut</item>
+        <item>Exotic, earthy, musty, natural</item>
+    </array>
+
+</resources>
