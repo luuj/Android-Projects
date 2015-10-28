@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="title_included_list">
+        <item>This is a test note</item>
+        <item>Netflix Tips</item>
+        <item>How to Order a Pizza</item>
+    </array>
+
+    <array name="body_included_list">
+        <item>Credit Card information: 3760 3849 8922 9990</item>
+        <item>If you watch Netflix, load it in Internet Explorer or Safari
+        to watch it in 1080p. Google Chrome will only play it in 720p</item>
+        <item>Step 1. Find a nearby restaurant. Step 2. Decide on your order. Step 3. Order.</item>
+
+    </array>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="action_settings">Settings</string>
+    <string name="titleString">Title:</string>
+    <string name="deleteString">Delete</string>
+    <string name="saveString"> Save </string>
+</resources>
