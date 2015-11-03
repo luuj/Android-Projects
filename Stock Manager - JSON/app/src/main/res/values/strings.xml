@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stock Manager</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="addButton">+</string>
+    <string name="pName">Product Name:</string>
+    <string name="brandString">Brand:</string>
+    <string name="priceString">Price:</string>
+    <string name="colorString">Color:</string>
+    <string name="stockString">Stock:</string>
+    <string name="saveString">Save</string>
+    <string name="cancelString">Cancel</string>
+    <string name="buyString">Buy Stock</string>
+    <string name="sellString">Sell Stock</string>
+    <string name="sellAllString">Sell All</string>
+    <string name="deleteString">Delete Item from Record</string>
+</resources>

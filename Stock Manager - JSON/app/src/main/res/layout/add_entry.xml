@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp">
+
+            <TextView
+                android:layout_width="96dp"
+                android:layout_height="wrap_content"
+                android:text="@string/pName"
+                android:id="@+id/textView"
+                android:layout_marginLeft="16dp" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/productTV"
+                android:layout_weight="1"
+                android:layout_marginRight="16dp"
+                android:singleLine="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_gravity="center_horizontal">
+
+            <TextView
+                android:layout_width="96dp"
+                android:layout_height="wrap_content"
+                android:text="@string/brandString"
+                android:id="@+id/textView2"
+                android:layout_marginLeft="16dp" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/brandTV"
+                android:layout_weight="1"
+                android:layout_marginRight="16dp"
+                android:singleLine="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_gravity="center_horizontal" >
+
+            <TextView
+                android:layout_width="96dp"
+                android:layout_height="wrap_content"
+                android:text="@string/priceString"
+                android:id="@+id/textView3"
+                android:layout_marginLeft="16dp" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/priceTV"
+                android:layout_weight="1"
+                android:layout_marginRight="16dp"
+                android:singleLine="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_gravity="center_horizontal" >
+
+            <TextView
+                android:layout_width="96dp"
+                android:layout_height="wrap_content"
+                android:text="@string/colorString"
+                android:id="@+id/textView4"
+                android:layout_marginLeft="16dp" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/colorTV"
+                android:layout_weight="1"
+                android:layout_marginRight="16dp"
+                android:singleLine="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_gravity="center_horizontal" >
+
+            <TextView
+                android:layout_width="96dp"
+                android:layout_height="wrap_content"
+                android:text="@string/stockString"
+                android:id="@+id/textView5"
+                android:layout_marginLeft="16dp" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/stockTV"
+                android:layout_weight="1"
+                android:layout_marginRight="16dp"
+                android:singleLine="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="96dp">
+
+            <Button
+                android:layout_width="96dp"
+                android:layout_height="wrap_content"
+                android:text="@string/saveString"
+                android:id="@+id/saveButtonNew"
+                android:layout_marginRight="16dp" />
+
+            <Button
+                android:layout_width="96dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cancelString"
+                android:id="@+id/cancelButtonNew"
+                android:layout_marginLeft="16dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
